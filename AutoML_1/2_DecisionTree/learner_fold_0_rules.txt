@@ -1,0 +1,16 @@
+if (SSO:000036573 > 0.5) and (SSO:000031056 <= 0.5) and (SSO:000024912 <= 0.5) then class: 0 (proba: 99.62%) | based on 1,065 samples
+
+if (SSO:000036573 <= 0.5) and (SSO:000024182 > 0.5) and (SSO:000012160 <= 0.5) then class: 1 (proba: 98.57%) | based on 491 samples
+
+if (SSO:000036573 <= 0.5) and (SSO:000024182 > 0.5) and (SSO:000012160 > 0.5) then class: 1 (proba: 79.07%) | based on 129 samples
+
+if (SSO:000036573 <= 0.5) and (SSO:000024182 <= 0.5) and (SSO:000002230 > 0.5) then class: 1 (proba: 64.89%) | based on 94 samples
+
+if (SSO:000036573 <= 0.5) and (SSO:000024182 <= 0.5) and (SSO:000002230 <= 0.5) then class: 0 (proba: 92.65%) | based on 68 samples
+
+if (SSO:000036573 > 0.5) and (SSO:000031056 > 0.5) and (SSO:000010690 <= 0.5) then class: 1 (proba: 100.0%) | based on 4 samples
+
+if (SSO:000036573 > 0.5) and (SSO:000031056 > 0.5) and (SSO:000010690 > 0.5) then class: 0 (proba: 100.0%) | based on 1 samples
+
+if (SSO:000036573 > 0.5) and (SSO:000031056 <= 0.5) and (SSO:000024912 > 0.5) then class: 1 (proba: 100.0%) | based on 1 samples
+

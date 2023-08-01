@@ -1,3 +1,3 @@
-data/*
-# Just a random file so that data folder is created
-!data/.gitkeep
+data/allgenomes.interpro.txt.ps.tsv
+data/allgenomes.RAST.txt.ps.tsv
+
