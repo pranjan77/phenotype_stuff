@@ -1,0 +1,21 @@
+feature	importance
+SSO:000030003__glucose-6-phosphate dehydrogenase	0.006133574553050175
+SSO:000000864__Aldehyde dehydrogenase (EC 1.2.1.3)	0.005612688258027594
+SSO:000003006__Galactokinase (EC 2.7.1.6)	0.005327394475497746
+SSO:000019343__Mannose-6-phosphate isomerase class I (EC 5.3.1.8)	0.004930286838525893
+SSO:000003108__Gluconokinase (EC 2.7.1.12)	0.004580244023745694
+SSO:000007068__Ribokinase (EC 2.7.1.15)	0.00417159365086671
+SSO:000000075__23-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)	0.003970522032514525
+SSO:000034571__Aldose 1-epimerase family protein	0.0038216117584873323
+SSO:000005727__Pantoate--beta-alanine ligase (EC 6.3.2.1)	0.0037921719936829315
+SSO:000000919__Alpha-galactosidase (EC 3.2.1.22)	0.0036203647452339375
+SSO:000005105__N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	0.0034693582282248002
+SSO:000001182__Beta-galactosidase (EC 3.2.1.23)	0.003292884438253521
+SSO:000003114__Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	0.0032383858795902594
+SSO:000006176__Porphobilinogen synthase (EC 4.2.1.24)	0.003160835114171524
+SSO:000034025__2Fe-2S iron-sulfur cluster binding domain-containing protein	0.0031486733428328154
+SSO:000028881__Uroporphyrinogen decarboxylase	0.00295140129271116
+SSO:000021631__Phosphocarrier protein HPr	0.0029472315667214556
+SSO:000000451__6-phospho-beta-glucosidase (EC 3.2.1.86)	0.002932977595324395
+SSO:000004958__MotA/TolQ/ExbB proton channel family protein	0.0028997603672334307
+SSO:000006816__Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)	0.0028259714751235057

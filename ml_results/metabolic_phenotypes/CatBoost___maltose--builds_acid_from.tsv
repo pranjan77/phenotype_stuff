@@ -1,0 +1,21 @@
+feature	importance
+SSO:000000917__Alpha-amylase (EC 3.2.1.1)	0.5908117259092471
+SSO:000000920__Alpha-glucosidase (EC 3.2.1.20)	0.5158121135959799
+SSO:000000919__Alpha-galactosidase (EC 3.2.1.22)	0.33409432146715395
+SSO:000001193__Beta-phosphoglucomutase (EC 5.4.2.6)	0.29282418740454375
+SSO:000019343__Mannose-6-phosphate isomerase class I (EC 5.3.1.8)	0.2228062894185145
+SSO:000007212__SAM-dependent methyltransferase (EC 2.1.1.-)	0.19171179703726257
+SSO:000042727__UDP-glucose---hexose-1-phosphate uridylyltransferase (EC 2.7.7.12)	0.17901949026385977
+SSO:000003006__Galactokinase (EC 2.7.1.6)	0.1681148771954235
+SSO:000009045__bacteriocin immunity protein	0.15112779336923873
+SSO:000008877__Uridine kinase (EC 2.7.1.48)	0.1365680743131652
+SSO:000004378__Lactaldehyde reductase (EC 1.1.1.77)	0.12444845847768063
+SSO:000016939__GAF domain-containing protein	0.1222865122791998
+SSO:000009961__ADP-ribosylglycohydrolase family protein	0.10906535593352258
+SSO:000012210__Chorismate mutase	0.09802744985424837
+SSO:000003124__Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	0.09317552253838075
+SSO:000004043__Isochorismate synthase (EC 5.4.4.2)	0.09234570004070985
+SSO:000024948__Sodium/proline symporter	0.09072314579994159
+SSO:000044352__formate C-acetyltransferase (EC 2.3.1.54)	0.0824082270734356
+SSO:000003478__Homocysteine S-methyltransferase (EC 2.1.1.10)	0.08204904962568377
+SSO:000036105__Glutamate-5-semialdehyde dehydrogenase (EC 1.2.1.41)	0.08038478045736126
